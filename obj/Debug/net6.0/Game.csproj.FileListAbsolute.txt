@@ -186,3 +186,4 @@ G:\Game Projects\SFML\Game\bin\Debug\net6.0\runtimes\win-x86\native\csfml-window
 G:\Game Projects\SFML\Game\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
 G:\Game Projects\SFML\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
 G:\Game Projects\SFML\Game\obj\Debug\net6.0\Game.csproj.CopyComplete
+G:\Game Projects\SFML\Game\obj\Debug\net6.0\Game.sourcelink.json

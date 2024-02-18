@@ -14,7 +14,7 @@ namespace Game
             Engine.windowStyle = Styles.Close;
 
             Engine.vSyncEnabled = true;
-            Engine.maxFPS = -1;
+            Engine.maxFPS = -1; // if vSync enabled set maxFPS to -1
 
             Engine.gridRows = 200;
             Engine.gridColumns = 200;
@@ -26,8 +26,8 @@ namespace Game
             Engine.gridSeashoreColor = new Color(0, 188, 255);
             Engine.gridWoodsColor = new Color(85, 139, 47);
 
-            Engine.generationCount1 = 600;
-            Engine.generationCount2 = 200;
+            Engine.generationCount1 = 1000;
+            Engine.generationCount2 = 300;
 
             Engine.WindowInit();
             Engine.GenerationInit();

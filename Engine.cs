@@ -63,11 +63,12 @@ namespace Game
             }
 
             generation.StartBorderSands();
-
-            for (int i = 0;i < generationCount2; i++)
+            
+            for (int i = 0; i < generationCount2; i++)
             {
                 generation.NextGenerationSands();
             }
+            
         }
 
         public static void TerrainRenderInit()
